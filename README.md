@@ -1,6 +1,6 @@
 # paddi.tech
-Paddi.tech is my(Pradyot Patil) personal webite :)
+Paddi.tech is my(Pradyot Patil) personal webite template meant for staging:)
 
 Made using -> HTML5 and JAVA SCRIPT
 
-You are welcomed to visit my site!!!
+This template is modified and implemented in the production.
